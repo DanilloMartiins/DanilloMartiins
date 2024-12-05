@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 👋 Olá! Eu sou o Danillo Martins.
 - 👀 Tenho um grande interesse em desenvolvimento back-end, sistemas escaláveis e gerenciamento de banco de dados.
-- 🌱 Atualmente, estou aprendendo Node.js.
+- 🌱 Atualmente, estou aprendendo Java.
 - 💞️ Procuro colaborar em projetos desafiadores de back-end, contribuições open-source e melhoria do desempenho de servidores.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/danillomartins/) | Email: danillomartins95@hotmail.com
 - 😄 Pronomes: Ele/Dele
