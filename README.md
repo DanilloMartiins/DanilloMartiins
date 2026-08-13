@@ -8,13 +8,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou eletrotécnico na **Chesf** e estou em transição de carreira para o desenvolvimento Back-end. Já tive contato com **Node.js** na prática, e hoje meu foco de estudos está em **Java** — construindo uma base técnica sólida em POO, estruturas de dados e boas práticas de desenvolvimento.
+Sou eletrotécnico na **Chesf** e estou em transição de carreira para o desenvolvimento Back-end. Hoje construo APIs REST com **Java (Spring Boot)**, aplicando banco de dados relacional, autenticação JWT e boas práticas de arquitetura.
 
-Acredito que boas soluções nascem de código organizado, lógica bem pensada e muita vontade de aprender. Estou em busca da minha primeira oportunidade como desenvolvedor Back-end.
+Desenvolvo em equipe com um amigo Dev o **CarpinaON**, um portal de serviços municipais estilo "gov.br" — eu no back-end e ele no app em Flutter.
 
-- 🎯 **Foco atual:** Java + POO + Estruturas de Dados
-- 📚 **Estudando:** Fundamentos sólidos de Java, algoritmos e arquitetura orientada a objetos
-- ⚙️ **Experiência prévia:** Node.js + JavaScript
+- 🎯 **Foco atual:** Spring Boot, APIs REST, PostgreSQL, Docker
+- ⚙️ **Experiência:** Java, Spring Boot, JWT, PostgreSQL, Node.js, Docker, Angular, Oracle Cloud
+- 💼 **Origem:** 10+ anos no setor elétrico (Chesf) aplicados na lógica de negócio
 - 💡 **Perfil:** Disciplinado, curioso e comprometido com a evolução contínua
 
 ---
@@ -23,56 +23,91 @@ Acredito que boas soluções nascem de código organizado, lógica bem pensada e
 
 ### 👨‍💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🌐 Web
+### 🖥️ Front-end
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔐 Autenticação
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
+
 ### 🧪 Testes & API
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-80CA2D?style=for-the-badge&logo=mockito&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🐳 DevOps
+### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 🚀 Projetos
 
+### 🏛️ [CarpinaON](https://github.com/DanilloMartiins/CarpinaON)
+> Portal de serviços municipais estilo "gov.br", desenvolvido em parceria com dev mobile (Flutter).
+
+**Destaques:** Autenticação JWT com verificação de cidadão, arquitetura multi-tenant, rate limit por cliente, deploy em Docker + GHCR (CI/CD)
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `JWT` `Docker` `GitHub Actions`
+
+---
+
+### 🍣 [Seu Shima Sushi](https://github.com/DanilloMartiins/shima-sushi-website)
+> Site fullstack de um restaurante de sushi real, com fluxos públicos, autenticação, pedidos e área administrativa.
+
+**Destaques:** Frontend Angular standalone + backend Spring Boot + Docker Compose (front, back e banco juntos), migração de React + Vite para Angular
+**Stack:** `Angular` `TypeScript` `Java` `Spring Boot` `Docker`
+
+---
+
 ### 🍔 [House Burguer Grill](https://github.com/DanilloMartiins/house-burguer-grill)
-> Site desenvolvido para uma hamburgueria real, com sistema completo de pedidos online. O usuário navega pelo cardápio, monta o carrinho e finaliza o pedido com envio automático via WhatsApp.
+> Site desenvolvido para uma hamburgueria real, com sistema completo de pedidos online.
 
 **Destaques:** Carrinho interativo, cálculo automático do total, opções de entrega ou retirada, validações no checkout e integração com WhatsApp  
-**O que pratiquei:** Manipulação do DOM, eventos, lógica de carrinho, integração com API externa  
 **Stack:** `JavaScript` `HTML5` `CSS3`
 
 ---
 
-### 🎬 [Sistema de Locadora — POO Java](https://github.com/DanilloMartiins/projeto-locadora-poo-java)
-> Sistema de gerenciamento de locadora de mídias desenvolvido em Java, modelando clientes, filmes e operações de empréstimo e devolução com base nos pilares da POO.
+### 💰 [Banquinho API](https://github.com/DanilloMartiins/banquinho-api)
+> API REST de sistema bancário digital.
 
-**Destaques:** Cadastro de clientes e mídias, controle de empréstimos e devoluções, geração de relatórios  
-**O que pratiquei:** Encapsulamento, herança, polimorfismo, abstração, modelagem de domínio real  
-**Stack:** `Java`
+**Destaques:** Autenticação, transferências via PIX, empréstimos e gerenciamento de transações
+**Stack:** `Java` `Spring Boot`
 
 ---
 
-### 🧠 [Desafios de Lógica — DIO](https://github.com/DanilloMartiins/desafios-de-logica-DIO-Felip-o)
-> Resolução de desafios clássicos de lógica propostos pela DIO, abordando desde classificação e cálculos até criação de classes e métodos. Inclui projetos como classificador de nível de herói e calculadora de partidas ranqueadas.
+### ⚡ [Energicalc](https://github.com/DanilloMartiins/energicalc)
+> Aplicação fullstack para simulação de conta de energia elétrica, aplicando experiência do setor elétrico.
 
-**O que pratiquei:** Estruturas condicionais, laços de repetição, funções, orientação a objetos, versionamento com Git  
+**Destaques:** Estimativa de fatura antes do fechamento do ciclo, cálculo de consumo projetado e tarifas por distribuidora
 **Stack:** `JavaScript` `Node.js`
+
+---
+
+### 🎬 [Sistema de Locadora — POO Java](https://github.com/DanilloMartiins/projeto-locadora-poo-java)
+> Sistema de gerenciamento de locadora de mídias modelado com os pilares da POO.
+
+**Destaques:** Cadastro de clientes e mídias, controle de empréstimos e devoluções, geração de relatórios  
+**Stack:** `Java`
 
 ---
 
@@ -88,19 +123,21 @@ Acredito que boas soluções nascem de código organizado, lógica bem pensada e
 
 ---
 
+```
 ## 📚 Roadmap de Estudos
 
-```
-[✅] JavaScript — Lógica + DOM
-[✅] Node.js — Contato e experiência prática
-[🔄] Java — POO + Fundamentos (foco atual)
-[🔄] Estruturas de Dados
-[🔄] Docker — Containers e ambientes isolados
-[🔄] Postman — Testes e documentação de APIs
-[🔄] JUnit — Testes automatizados em Java
-[🔄] Spring Boot — Framework Back-end Java
-[⏳] APIs REST com Java
-[⏳] Banco de Dados (SQL)
+✅ JavaScript — Lógica + DOM
+✅ Node.js — Contato e experiência prática
+✅ Java — POO + Fundamentos
+✅ APIs REST com Java (Spring Boot)
+✅ Banco de Dados (PostgreSQL)
+🔄 Docker — Containers e ambientes isolados
+🔄 Testes automatizados (JUnit + Mockito)
+🔄 CI/CD — GitHub Actions
+🔄 Arquitetura multi-tenant
+🔄 Angular — Front-end moderno
+🔄 Oracle Cloud (Free Tier) — deploy do CarpinaON
+⏳ Mensageria (RabbitMQ/Kafka)
 ```
 
 ---
